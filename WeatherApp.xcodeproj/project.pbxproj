@@ -71,7 +71,6 @@
 				93B2F4F92795F12B00333594 /* Views */,
 				93B2F4FB2795F14B00333594 /* View Controllers */,
 				93B2F4FC2795F17200333594 /* Supporting Files */,
-				9351C09F2795E28F00C3F6DB /* Info.plist */,
 			);
 			path = WeatherApp;
 			sourceTree = "<group>";
@@ -118,6 +117,7 @@
 				9351C0912795E28D00C3F6DB /* AppDelegate.swift */,
 				9351C0932795E28D00C3F6DB /* SceneDelegate.swift */,
 				9351C09A2795E28F00C3F6DB /* Assets.xcassets */,
+				9351C09F2795E28F00C3F6DB /* Info.plist */,
 			);
 			path = "Supporting Files";
 			sourceTree = "<group>";
@@ -350,7 +350,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = WeatherApp/Info.plist;
+				INFOPLIST_FILE = "WeatherApp/Supporting Files/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -377,7 +377,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = WeatherApp/Info.plist;
+				INFOPLIST_FILE = "WeatherApp/Supporting Files/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
